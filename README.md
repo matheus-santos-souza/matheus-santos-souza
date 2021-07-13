@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheus-santos-souza
 - 👀 I’m interested in  Web development.
-- 🌱 I’m currently learning  REACTJS, NODEJS, JAVASCRIPT, HTML  and CSS.
+- 🌱 I’m currently learning  HTML, CSS, JAVASCRIPT, NODEJS, REACTJS and SQL.
 - 📫 How to reach me : matheus.santos.souza2020@outlook.com
 
 <!---
