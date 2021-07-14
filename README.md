@@ -2,7 +2,7 @@
 <h3 align = "center"> Estudante de desenvolvimento WEB. </h3>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=matheus-santos-souza" alt = "MatheusSantos" /> </p>
 
-- 🔭 Atualmente estou graduando em [FACOM-UFMS] (https://www.facom.ufms.br/)
+- 🔭 Atualmente estou graduando em [FACOM-UFMS](https://www.facom.ufms.br/)
 
 - 📫 Como entrar em contato comigo **matheus.santos.souza2020@outlook.com**
 
