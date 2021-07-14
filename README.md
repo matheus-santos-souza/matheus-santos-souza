@@ -1,6 +1,6 @@
 <h1 align = "center"> Olá, <img src = "https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width = "30px"> sou Matheus Santos </ h1 >
 <h3 align = "center"> Estudante de desenvolvimento WEB. </h3>
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=maykbrito" alt = "maykbrito" /> </p>
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=matheus-santos-souza" alt = "MatheusSantos" /> </p>
 
 - 🔭 Atualmente estou graduando em [FACOM-UFMS] (https://www.facom.ufms.br/)
 
