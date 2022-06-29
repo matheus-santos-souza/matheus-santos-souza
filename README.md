@@ -10,6 +10,6 @@
 
 <div align="center" >
   <a href="https://github.com/Ezxykdriv">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus-santos-souza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-santos-souza&layout=compact&langs_count=7&theme=react"/>
+  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-santos-souza&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-santos-souza&layout=compact&langs_count=7&theme=react"/>
 </div>
