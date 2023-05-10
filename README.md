@@ -6,7 +6,7 @@
 
 - 📫 Como entrar em contato comigo **matheus.santos.souza2020@outlook.com**
 
-- 🌱 Atualmente trabalhando com as tecnologias **JavaScript, NodeJs, TypeScript, Express, Java, SQL, Docker, Jenkins, Angular, Bootstrap, Material Design, HTML, CSS, Birt e Jasper...**
+- 🌱 Atualmente trabalhando com as tecnologias **JavaScript, NodeJs, TypeScript, SQL, NO-SQL, Docker, Jenkins, Angular, Bootstrap, Material Design, HTML, CSS...**
 
 <div align="center" >
   <a href="https://github.com/Ezxykdriv">
