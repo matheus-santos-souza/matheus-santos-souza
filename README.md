@@ -1,12 +1,12 @@
 <h1 align = "center"> Olá, sou o Matheus Santos </ h1 >
-<h3 align = "center"> Desenvolvedor WEB (FullStack). </h3>
+<h3 align = "center"> Desenvolvedor Nodejs | Javascript. </h3>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=matheus-santos-souza" alt = "MatheusSantos" /> </p>
 
 - 🔭 Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas. [FACOM-UFMS](https://www.facom.ufms.br/)
 
 - 📫 Como entrar em contato comigo **matheus.santos.souza2020@outlook.com**
 
-- 🌱 Atualmente trabalhando com as tecnologias **JavaScript, NodeJs, TypeScript, SQL, NO-SQL, Docker, Jenkins, Angular, Bootstrap, Material Design, HTML, CSS...**
+- 🌱 Atualmente trabalhando com as tecnologias **JavaScript, NodeJs, TypeScript, NestJS, TypeORM, Prisma, Docker, Kubernetes, Jira**
 
 <div align="center" >
   <a href="https://github.com/Ezxykdriv">
