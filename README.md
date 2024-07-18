@@ -1,10 +1,10 @@
 <h1 align = "center"> Olá, sou o Matheus Santos </ h1 >
-<h3 align = "center"> Desenvolvedor de Software | Backend, Arquitetura de Software e IA | Node.js, NestJS e Langchain | Chatbots </h3>
+<h3 align = "center"> Desenvolvedor de Software | Backend, Arquitetura de Software e GenAI | Node.js, NestJS e Langchain | Chatbots </h3>
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=matheus-santos-souza" alt = "MatheusSantos" /> </p>
 
 - 🔭 Graduado em Tecnologia em Análise e Desenvolvimento de Sistemas. [FACOM-UFMS](https://www.facom.ufms.br/)
 
-- 📫 Como entrar em contato comigo **matheus.santos.souza2020@outlook.com**
+- 📫 Como entrar em contato comigo **matheus.santos.souza2020@outlook.com** e **https://www.linkedin.com/in/matheus-santos-souza2020**
 
 <div align="center" >
   <a href="https://github.com/matheus-santos-souza">
