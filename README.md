@@ -9,6 +9,6 @@
 <div align="center"> 
   <a href="https://github.com/matheus-santos-souza"> 
     <img width="430rem" src="https://github-readme-stats.vercel.app/api?username=matheus-santos-souza&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats"/> 
-    <img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-santos-souza&layout=compact&langs_count=7&theme=react" alt="Top Languages"/> 
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-santos-souza&layout=compact&langs_count=7&theme=react&hide=html)
   </a> 
 </div>
